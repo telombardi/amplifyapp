@@ -1,14 +1,5 @@
 {
   "features": {
-    "codegen": {
-      "useappsyncmodelgenplugin": true,
-      "usedocsgeneratorplugin": true,
-      "usetypesgeneratorplugin": true,
-      "cleangeneratedmodelsdirectory": true,
-      "retaincasestyle": true,
-      "addtimestampfields": true,
-      "handlelistnullabilitytransparently": true
-    },
     "appsync": {
       "generategraphqlpermissions": true
     }
